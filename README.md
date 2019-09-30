@@ -1,5 +1,9 @@
 # Git-hello-world
 
+<p align="center">
+<img src="./logo.png">
+</p>
+
 ## Creating a Pull Request
 
 -   Fork this repo
