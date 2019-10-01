@@ -17,3 +17,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## ARCore with Android
 
 - [ARCore and Sceneform for Android Augmented Reality (Java)](https://www.udemy.com/course/arcore-and-sceneform-for-android-ar/)
+
+## Version Control
+
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
