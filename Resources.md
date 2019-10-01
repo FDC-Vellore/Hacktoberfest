@@ -29,3 +29,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Geeks For Geeks DSA
 
 - [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+
+## Python Questions
+
+- [Python Questions](https://www.hackerrank.com/domains/python)
