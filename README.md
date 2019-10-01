@@ -30,3 +30,7 @@ Get free limited edition shark edition stickers by filling [DigitalOcean feedbac
 ## Code of Conduct
 
 > Usage of foul language, addition of irrelevant links to `Resources.md` will lead to PR being tagged as `spam`
+
+# Follow the awesomeness
+Join Facebook Developer Circles: Vellore : [DevC Vellore](https://www.facebook.com/groups/DevCVellore/)<br>
+Follow us on Twitter: [@FDCVellore](https://twitter.com/fdcvellore)
