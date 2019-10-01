@@ -4,5 +4,5 @@
 | ------------ | ----------------------------------------------- | -------------------------- |
 | Bhumij Gupta | [bhumijgupta](https://github.com/bhumijgupta)   | NodeJS, Python             |
 |              |                                                 |                            |
-| Madhur Dixit | [Chester-King](https://github.com/Chester-King) | Android, NodeJS, Puppeteer |
+| Madhur Dixit | [Chester-King](https://github.com/Chester-King) | Android, Puppeteer, AR     |
 |              |                                                 |                            |

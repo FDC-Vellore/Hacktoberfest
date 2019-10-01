@@ -13,3 +13,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Android
 
 - [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
+
+## ARCore with Android
+
+- [ARCore and Sceneform for Android Augmented Reality (Java)](https://www.udemy.com/course/arcore-and-sceneform-for-android-ar/)
