@@ -6,3 +6,6 @@
 |              |                                                 |                            |
 | Madhur Dixit | [Chester-King](https://github.com/Chester-King) | Android, Puppeteer, AR     |
 |              |                                                 |                            |
+| Swami Mishra | [simpleman90](https://github.com/simpleman90)   | Python, Competitive        |
+|              |                                                 |                            |
+
