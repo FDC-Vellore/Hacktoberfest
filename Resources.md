@@ -25,3 +25,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Competitive Coding
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+## Geeks For Geeks DSA
+
+- [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
