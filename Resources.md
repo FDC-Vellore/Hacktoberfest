@@ -4,8 +4,12 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 ## NodeJS
 
--   [Learn Node.JS - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [Learn Node.JS - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
 ## Python
 
--   [Real Python](https://www.realpython.com)
+- [Real Python](https://www.realpython.com)
+
+## Android
+
+- [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
