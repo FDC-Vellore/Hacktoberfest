@@ -31,5 +31,5 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Competitive Coding
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
-- [Kattis](https://www.open.kattis.com)
+- [Kattis](https://open.kattis.com/)
 
