@@ -41,3 +41,21 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 - [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
 
+## React JS
+-[reactenlightment](https://www.reactenlightenment.com/-react) 
+
+## GO
+-[exlskills](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/introduction-kxCbhkEvFHZE/getting-started-with-go-lqXLStPtGTth-GO)
+
+## Further use this coding platform
+-[codewars](https://www.codewars.com)
+
+## Flutter
+
+- [Offical Docs](https://flutter.dev/docs)
+- [Github Repository](https://github.com/flutter)
+- [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+## Javascript
+- [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+- [freeCodeCamp](https://www.freecodecamp.org/)
