@@ -27,3 +27,13 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
 - [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+
+## React JS
+-[reactenlightment](https://www.reactenlightenment.com/-react) 
+
+## GO
+-[exlskills](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/introduction-kxCbhkEvFHZE/getting-started-with-go-lqXLStPtGTth-GO)
+
+## Further use this coding platform
+-[codewars](https://www.codewars.com)
+
