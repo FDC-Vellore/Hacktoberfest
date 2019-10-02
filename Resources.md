@@ -9,6 +9,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Python
 
 - [Real Python](https://www.realpython.com)
+- [Python Questions](https://www.hackerrank.com/domains/python)
 
 ## R
 - [R Language](https://cran.r-project.org/manuals.html)
@@ -35,5 +36,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Competitive Coding
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
+
 - [Kattis](https://open.kattis.com/)
+
+- [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
 
