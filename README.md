@@ -10,7 +10,7 @@
 
 -   Visit [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/profile) website
 -   Register using GitHub
--   Open Pull Request between Oct 1 - Oct 31
+-   Open Pull Request between Oct 1 - Oct 31 🚀
 
 ## Creating a Pull Request
 
