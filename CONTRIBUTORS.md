@@ -8,3 +8,5 @@
 | Swami Mishra | [simpleman90](https://github.com/simpleman90)   | Python, Competitive        |
 |              |                                                 |                            |
 | Nikhil Jain  | [nikhiljainjain](https://github.com/nikhiljainjain)    | MEN Stack, React-native    |
+|              |                                                 |                            |
+| M. Olcay Tercanlı | [molcay](https://github.com/molcay)       | Scala(Play), Python, Dart(Flutter) |
