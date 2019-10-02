@@ -23,9 +23,10 @@
 -   Click `Create Pull Request`
 
 ## Important Links to work for Hacktoberfest
-- [24PullRequest](https://24pullrequests.com/projects)
-- [CodeTriage](https://www.codetriage.com/)
-- [Pull Request Roulette](http://www.pullrequestroulette.com)
+
+-   [24PullRequest](https://24pullrequests.com/projects)
+-   [CodeTriage](https://www.codetriage.com/)
+-   [Pull Request Roulette](http://www.pullrequestroulette.com)
 
 ## Want extra stickers?
 
@@ -37,5 +38,6 @@ Get free limited edition shark edition stickers by filling [DigitalOcean feedbac
 > Usage of foul language, addition of irrelevant links to `Resources.md` will lead to PR being tagged as `spam`
 
 # Follow the awesomeness
+
 Join Facebook Developer Circles: Vellore : [DevC Vellore](https://www.facebook.com/groups/DevCVellore/)<br>
 Follow us on Twitter: [@FDCVellore](https://twitter.com/fdcvellore)
