@@ -33,3 +33,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 - [Offical Docs](https://flutter.dev/docs)
 - [Github Repository](https://github.com/flutter)
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+## Javascript
+- [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+- [freeCodeCamp](https://www.freecodecamp.org/)
