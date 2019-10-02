@@ -1,5 +1,4 @@
 # Contributors
-
 | <b>Name      | Github profile                                  | Technology you work on</b> |
 | ------------ | ----------------------------------------------- | -------------------------- |
 | Bhumij Gupta | [bhumijgupta](https://github.com/bhumijgupta)   | NodeJS, Python             |
@@ -8,4 +7,4 @@
 |              |                                                 |                            |
 | Swami Mishra | [simpleman90](https://github.com/simpleman90)   | Python, Competitive        |
 |              |                                                 |                            |
-
+| Nikhil Jain  | [nikhiljainjain](https://github.com/nikhiljainjain)    | MEN Stack, React-native    |
