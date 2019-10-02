@@ -11,6 +11,16 @@ Community accumulated links to resources to learn new technologies. Create a new
 - [Real Python](https://www.realpython.com)
 - [Python Questions](https://www.hackerrank.com/domains/python)
 
+## R
+- [R Language](https://cran.r-project.org/manuals.html)
+
+## MongoDB
+- [Mongo DB](https://docs.mongodb.com/)
+
+
+## DataScience
+- [DataCamp](https://www.datacamp.com/)
+
 ## Android
 
 - [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
@@ -26,6 +36,9 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Competitive Coding
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+- [Kattis](https://open.kattis.com/)
+
 - [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
 
 ## React JS

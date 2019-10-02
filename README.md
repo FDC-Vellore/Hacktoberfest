@@ -22,6 +22,11 @@
 -   Provide a title and description
 -   Click `Create Pull Request`
 
+## Important Links to work for Hacktoberfest
+- [24PullRequest](https://24pullrequests.com/projects)
+- [CodeTriage](https://www.codetriage.com/)
+- [Pull Request Roulette](http://www.pullrequestroulette.com)
+
 ## Want extra stickers?
 
 Yasss!!<br>
