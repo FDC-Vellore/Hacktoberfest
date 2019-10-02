@@ -21,3 +21,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Version Control
 
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+## Competitive Coding
+
+- [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
