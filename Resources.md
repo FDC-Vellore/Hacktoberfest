@@ -9,6 +9,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Python
 
 - [Real Python](https://www.realpython.com)
+- [Python Questions](https://www.hackerrank.com/domains/python)
 
 ## Android
 
@@ -21,3 +22,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Version Control
 
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+## Competitive Coding
+
+- [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
+- [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
