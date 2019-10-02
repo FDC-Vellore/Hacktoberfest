@@ -27,3 +27,9 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 - [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
 - [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+
+## Flutter
+
+- [Offical Docs](https://flutter.dev/docs)
+- [Github Repository](https://github.com/flutter)
+- [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
