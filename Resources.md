@@ -5,6 +5,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## NodeJS
 
 - [Learn Node.JS - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [Best course to Learn NodeJS basics](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 ## Python
 
