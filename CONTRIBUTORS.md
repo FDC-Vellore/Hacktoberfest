@@ -14,4 +14,4 @@
 |Subarna Lamsal| [Subarna Lamsal](https://github.com/Subarna578) | Python,R, Neural Networks  |
 |              |                                                 |                            |
 | Ivan Garcia  | [ivang11](https://github.com/ivang11)           | PHP                        |
-|              |                                                 |                            |
+| Jack Kumar   | [jacky11] (https://github.com/jacky11)          | PHP                        |
