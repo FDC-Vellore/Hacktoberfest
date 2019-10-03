@@ -8,16 +8,16 @@
 
 ## Register in Hacktoberfest 2019
 
--   Visit [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/profile) website
--   Register using GitHub
+-   Visit [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/profile) website 🎃
+-   Register using GitHub :octocat:
 -   Open Pull Request between Oct 1 - Oct 31 🚀
 
 ## Creating a Pull Request
 
--   Fork this repo
--   Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md)<br>
+-   Fork this repo 🍴
+-   Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
     ![example.png](./assets/example.png)
--   Add any link/ resource to learn the technology in [Resources.md](./Resources.md) (optional)
+-   Add any link/ resource to learn the technology in [Resources.md](./Resources.md) 📚 (optional)
 -   Click on `New Pull Request`
 -   Provide a title and description
 -   Click `Create Pull Request`
