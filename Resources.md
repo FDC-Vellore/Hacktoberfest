@@ -66,6 +66,9 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 -   [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 -   [freeCodeCamp](https://www.freecodecamp.org/)
+ 
+ ## React Native
+-   [Tutorial install React Native with Android Studio](https://cuonsachcongnghe.com/huong-dan-thiet-lap-trinh-gia-lap-androidkhoi-tao-du-an-moi-cho-phat-trien-ung-dung-react-native/)
 -   Functional Programming
     - [Ramda](https://ramdajs.com/)
     - [Highland](https://highlandjs.org/)
