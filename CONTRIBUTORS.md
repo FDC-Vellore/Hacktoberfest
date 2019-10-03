@@ -12,3 +12,5 @@
 |Kashish Mittal| [KASHISH2000] (http://github.com/KASHISH2000)   | NodeJS , JavaScript        |
 |              |                                                 |                            |
 |Subarna Lamsal | [Subarna Lamsal](https://github.com/Subarna578) | Python,R, Neural Networks |
+|              |                                                 |
+|Trinh Joduy | [Trinh Joduy](https://github.com/trinhminhhieu) | Node,react-native, express  |
