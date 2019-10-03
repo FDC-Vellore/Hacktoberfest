@@ -20,3 +20,4 @@
 | Jolene Langlinais  | [irmerk](https://github.com/irmerk)             | Javascript, NodeJS         |
 |                    |                                                 |                            |
 |Trinh Joduy         | [Trinh Joduy](https://github.com/trinhminhhieu) | Node,react-native, express |
+| Shahid Khan        | [shahid999] (https://github.com/shahid999)      | NodeJS,JavaScript          |
