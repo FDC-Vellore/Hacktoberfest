@@ -15,5 +15,5 @@
 |              |                                                 |                            |
 | Ivan Garcia  | [ivang11](https://github.com/ivang11)           | PHP                        |
 |              |                                                 |                            |
-| Trinh Jenny  | [weareone1st](https://github.com/weareone1st)   | React,Node,Express,JavaScript                        |
+| Kate Olivia  | [weareone1st](https://github.com/weareone1st)   | React,Node,Express,JavaScript                        |
 |              |                                                 |                            |
