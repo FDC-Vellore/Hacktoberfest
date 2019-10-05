@@ -20,3 +20,5 @@
 | Jolene Langlinais  | [irmerk](https://github.com/irmerk)             | Javascript, NodeJS         |
 |                    |                                                 |                            |
 |Trinh Joduy         | [Trinh Joduy](https://github.com/trinhminhhieu) | Node,react-native, express |
+|                    |                                                 |                            |
+|Lakshya Mutneja     | [lakshyamutneja](https://github.com/lakshyamutneja) | Cloud Computing, Python |
