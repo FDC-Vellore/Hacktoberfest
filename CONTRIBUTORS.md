@@ -22,3 +22,6 @@
 |Trinh Joduy         | [Trinh Joduy](https://github.com/trinhminhhieu) | Node,react-native, express |
 |                    |                                                 |                            |
 |Lakshya Mutneja     | [lakshyamutneja](https://github.com/lakshyamutneja) | Cloud Computing, Python |
+|                    |                                                 |                            |
+|Ayan Raj            | [ayanujju](https://github.com/ayanujju)         | Machine Learning, Web Dev  |
+
