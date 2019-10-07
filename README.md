@@ -28,10 +28,6 @@
 -   [CodeTriage](https://www.codetriage.com/)
 -   [Pull Request Roulette](http://www.pullrequestroulette.com)
 
-## Want extra stickers?
-
-Yasss!!<br>
-Get free limited edition shark edition stickers by filling [DigitalOcean feedback](https://digitalocean.getfeedback.com/r/p44ADlqG/) form
 
 ## Code of Conduct
 
