@@ -9,8 +9,14 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 ## Python
 
+-   [Leaarn Python by Google](https://developers.google.com/edu/python)
 -   [Real Python](https://www.realpython.com)
 -   [Python Questions](https://www.hackerrank.com/domains/python)
+
+## Machine Learning
+
+-   [Leaarn Machine Learning by Google](https://developers.google.com/machine-learning/crash-course/)
+-   [Leaarn Machine Learning by Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 ## R
 
@@ -26,6 +32,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 ## Android
 
+-   [Android Basics by Google](https://appliedcsskills.withgoogle.com)
 -   [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 ## ARCore with Android
