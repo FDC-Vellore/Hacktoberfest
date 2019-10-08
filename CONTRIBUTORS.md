@@ -28,3 +28,5 @@
 |Aaadish Kala        | [Aadish09](https://github.com/Aadish09)         | Web Dev ,UI/UX             |
 |                    |                                                 |                            |
 |Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    |
+
+       
