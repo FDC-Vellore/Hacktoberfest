@@ -25,6 +25,6 @@
 |                    |                                                 |                            |
 |Ayan Raj            | [ayanujju](https://github.com/ayanujju)         | Machine Learning, Web Dev  |
 |                    |                                                 |                            |
-|Aaadish Kala        | [Aadish09](https://github.com/Aadish09)          | Web Dev ,UI/UX             |
+|Aaadish Kala        | [Aadish09](https://github.com/Aadish09)         | Web Dev ,UI/UX             |
 |                    |                                                 |                            |
-|Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    | 
+|Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    |
