@@ -12,6 +12,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 -   [Leaarn Python by Google](https://developers.google.com/edu/python)
 -   [Real Python](https://www.realpython.com)
 -   [Python Questions](https://www.hackerrank.com/domains/python)
+-   [Computing in Python](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0)
 
 ## Machine Learning
 
@@ -34,6 +35,10 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 -   [Android Basics by Google](https://appliedcsskills.withgoogle.com)
 -   [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
+-   [Android Basics](https://www.udacity.com/course/android-basics-user-input--ud836)
+-   [Android Basics](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+-   [Android Firebase](https://classroom.udacity.com/courses/ud0352)
+-   [Advance Android](https://classroom.udacity.com/courses/ud855)
 
 ## ARCore with Android
 
@@ -50,6 +55,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 -   [Kattis](https://open.kattis.com/)
 
 -   [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+
+-   [Leet Code](https://leetcode.com/explore/learn/)
 
 ## React JS
 
@@ -73,6 +80,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 -   [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 -   [freeCodeCamp](https://www.freecodecamp.org/)
+-   [DNS Working (Web basic)](https://howdns.works/?fbclid=IwAR3sxvmnS2XE911qCRAa3JCpML4BAWecy6bofQ1AM2QtlTKo6Tgx1T-Wy6A)
  
  ## React Native
 -   [Tutorial install React Native with Android Studio](https://cuonsachcongnghe.com/huong-dan-thiet-lap-trinh-gia-lap-androidkhoi-tao-du-an-moi-cho-phat-trien-ung-dung-react-native/)
@@ -84,3 +92,11 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 -   [Codecourse](https://codecourse.com)
 -   [freeCodeCamp](https://guide.freecodecamp.org/php/)
+
+## Microsoft Azure
+
+-  [Cloud computing with Azure](https://azure.microsoft.com/en-us/overview/)
+
+## Overwiew to All
+
+-  [Find your interest](https://hackr.io/?fbclid=IwAR2NltTh-174IQ6Zx-EfbOwisfflD6JfGIMErGG-E-JyOfHWLsnXuLE43kQ)
