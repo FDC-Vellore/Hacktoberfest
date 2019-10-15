@@ -28,6 +28,5 @@
 |Aaadish Kala        | [Aadish09](https://github.com/Aadish09)         | Web Dev ,UI/UX             |
 |                    |                                                 |                            |
 |Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    |
-[Ana Carolina](https://github.com/anacarolinacv) | Java and Python |
 |                    |                                                 |                            |
-|Ana Carolina Chaves     |
+|Ana Carolina Chaves | [Ana Carolina](https://github.com/anacarolinacv)|Java and Python             |
