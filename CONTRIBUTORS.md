@@ -30,3 +30,5 @@
 |Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    |
 |                    |                                                 |                            |
 |Ana Carolina Chaves | [Ana Carolina](https://github.com/anacarolinacv)|Java and Python             |
+|                    |                                                 |                            |
+|Udit Namdev         | [unamdev0](https://github.com/unamdev0)         |ReactJS and NodeJS          |
