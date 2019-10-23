@@ -61,6 +61,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## React JS
 
 -[reactenlightment](https://www.reactenlightenment.com/-react)
+-[tutorialspoint] (https://www.tutorialspoint.com/reactjs/index.htm)
+-[reactJS] (https://reactjs.org/tutorial/tutorial.html)
 
 ## GO
 
