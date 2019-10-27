@@ -31,3 +31,4 @@
 | Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)   | Android, Azure, Python     |
 |                     |                                                     |                            |
 | Ana Carolina Chaves | [Ana Carolina](https://github.com/anacarolinacv)    | Java and Python            |
+| Parinya Onsuwan     | [parinz1234](https://github.com/parinz1234)         | NodeJS, PHP, React, Vue    |
