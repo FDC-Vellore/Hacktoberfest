@@ -4,8 +4,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 ## NodeJS
 
-- [Learn Node.JS - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
-- [Best course to Learn NodeJS basics](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+-   [Learn Node.JS - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+-   [Best course to Learn NodeJS basics](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 ## Python
 
@@ -51,26 +51,22 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Competitive Coding
 
 -   [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
-
 -   [Kattis](https://open.kattis.com/)
-
 -   [GeeksForGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
-
 -   [Leet Code](https://leetcode.com/explore/learn/)
+-   [codewars](https://www.codewars.com)
 
 ## React JS
 
--[reactenlightment](https://www.reactenlightenment.com/-react)
--[tutorialspoint] (https://www.tutorialspoint.com/reactjs/index.htm)
--[reactJS] (https://reactjs.org/tutorial/tutorial.html)
+-   [reactenlightment](https://www.reactenlightenment.com/-react)
+-   [tutorialspoint](https://www.tutorialspoint.com/reactjs/index.htm)
+-   [reactJS](https://reactjs.org/tutorial/tutorial.html)
 
 ## GO
 
--[exlskills](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/introduction-kxCbhkEvFHZE/getting-started-with-go-lqXLStPtGTth-GO)
+-   [exlskills](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/introduction-kxCbhkEvFHZE/getting-started-with-go-lqXLStPtGTth-GO)
 
 ## Further use this coding platform
-
--[codewars](https://www.codewars.com)
 
 ## Flutter
 
@@ -83,12 +79,15 @@ Community accumulated links to resources to learn new technologies. Create a new
 -   [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 -   [freeCodeCamp](https://www.freecodecamp.org/)
 -   [DNS Working (Web basic)](https://howdns.works/?fbclid=IwAR3sxvmnS2XE911qCRAa3JCpML4BAWecy6bofQ1AM2QtlTKo6Tgx1T-Wy6A)
- 
- ## React Native
+
+## React Native
+
 -   [Tutorial install React Native with Android Studio](https://cuonsachcongnghe.com/huong-dan-thiet-lap-trinh-gia-lap-androidkhoi-tao-du-an-moi-cho-phat-trien-ung-dung-react-native/)
--   Functional Programming
-    - [Ramda](https://ramdajs.com/)
-    - [Highland](https://highlandjs.org/)
+
+## Functional Programming
+
+-   [Ramda](https://ramdajs.com/)
+-   [Highland](https://highlandjs.org/)
 
 ## PHP
 
@@ -97,8 +96,8 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 ## Microsoft Azure
 
--  [Cloud computing with Azure](https://azure.microsoft.com/en-us/overview/)
+-   [Cloud computing with Azure](https://azure.microsoft.com/en-us/overview/)
 
 ## Overwiew to All
 
--  [Find your interest](https://hackr.io/?fbclid=IwAR2NltTh-174IQ6Zx-EfbOwisfflD6JfGIMErGG-E-JyOfHWLsnXuLE43kQ)
+-   [Find your interest](https://hackr.io/?fbclid=IwAR2NltTh-174IQ6Zx-EfbOwisfflD6JfGIMErGG-E-JyOfHWLsnXuLE43kQ)

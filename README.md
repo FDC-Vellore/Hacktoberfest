@@ -28,7 +28,6 @@
 -   [CodeTriage](https://www.codetriage.com/)
 -   [Pull Request Roulette](http://www.pullrequestroulette.com)
 
-
 ## Code of Conduct
 
 > Usage of foul language, addition of irrelevant links to `Resources.md` will lead to PR being tagged as `spam`
