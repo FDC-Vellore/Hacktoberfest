@@ -93,6 +93,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 
 -   [Codecourse](https://codecourse.com)
 -   [freeCodeCamp](https://guide.freecodecamp.org/php/)
+-   [Laravel Framework](https://laravel.com)
 
 ## Microsoft Azure
 
