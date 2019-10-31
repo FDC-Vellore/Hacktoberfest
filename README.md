@@ -1,6 +1,6 @@
 <h1 align="center">Hacktoberfest</h1>
 <p align="center">
-    <img src="./assets/logo.png"><br>
+    <img src="./assets/hack_fest.gif"><br>
 </p>
 <p align="center">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FDC-Vellore/Hacktoberfest?style=for-the-badge">
