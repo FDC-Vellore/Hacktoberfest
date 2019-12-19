@@ -3,30 +3,31 @@
     <img src="./assets/logo.png"><br>
 </p>
 <p align="center">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FDC-Vellore/Hacktoberfest?style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/FDC-Vellore/Hacktoberfest?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FDC-Vellore/Hacktoberfest?style=for-the-badge"><br>
+    The scope for this project has ended, you can find the compiled resource by community <a href="./Resources.md">here</a>
 </p>
 
 ## Register in Hacktoberfest 2019
 
--   Visit [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/profile) website 🎃
--   Register using GitHub :octocat:
--   Open Pull Request between Oct 1 - Oct 31 🚀
+- Visit [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/profile) website 🎃
+- Register using GitHub :octocat:
+- Open Pull Request between Oct 1 - Oct 31 🚀
 
 ## Creating a Pull Request
 
--   Fork this repo 🍴
--   Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
-    ![example.png](./assets/example.png)
--   Add any link/ resource to learn the technology in [Resources.md](./Resources.md) 📚 (optional)
--   Click on `New Pull Request`
--   Provide a title and description
--   Click `Create Pull Request`
+- Fork this repo 🍴
+- Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
+  ![example.png](./assets/example.png)
+- Add any link/ resource to learn the technology in [Resources.md](./Resources.md) 📚 (optional)
+- Click on `New Pull Request`
+- Provide a title and description
+- Click `Create Pull Request`
 
 ## Important Links to work for Hacktoberfest
 
--   [24PullRequest](https://24pullrequests.com/projects)
--   [CodeTriage](https://www.codetriage.com/)
--   [Pull Request Roulette](http://www.pullrequestroulette.com)
+- [24PullRequest](https://24pullrequests.com/projects)
+- [CodeTriage](https://www.codetriage.com/)
+- [Pull Request Roulette](http://www.pullrequestroulette.com)
 
 ## Code of Conduct
 
