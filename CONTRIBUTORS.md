@@ -32,3 +32,4 @@
 |                     |                                                     |                            |
 | Ana Carolina Chaves | [Ana Carolina](https://github.com/anacarolinacv)    | Java and Python            |
 | Parinya Onsuwan     | [parinz1234](https://github.com/parinz1234)         | NodeJS, PHP, React, Vue    |
+| Archisman Hota     | [Archisman Hota](https://github.com/Archis19)         | C++, CSS, Python          |
